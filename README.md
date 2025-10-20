@@ -1,5 +1,3 @@
-## CS7GV6-202526-Starter-code-for-Modelling
-
 # Lab 4 – Upload Model
 # Overview
 
