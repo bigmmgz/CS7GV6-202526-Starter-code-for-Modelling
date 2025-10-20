@@ -41,6 +41,7 @@ macOS: Xcode Command Line Tools, CMake ≥ 3.1, OpenGL 3.3+
 Linux (Debian/Ubuntu): sudo apt install build-essential cmake libglfw3-dev libassimp-dev
 
 🛠 Build Instructions
+
 🪟 Windows (CLion – Recommended)
 
 Open the folder lab4 in CLion.
@@ -86,6 +87,3 @@ cmake -S . -B build
 cmake --build build --target lab4_main -j 8
 ./build/lab4_main
 
-
-
-To change the window title, edit it in source code/main.cpp where the GLFW window is created.
