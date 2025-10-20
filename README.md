@@ -1,19 +1,19 @@
 ## CS7GV6-202526-Starter-code-for-Modelling
 
-#Lab 4 – Upload Model
-#Overview
+# Lab 4 – Upload Model
+# Overview
 
 This starter project is built on GLFW + GLAD + Assimp (Windows x64).
 It provides a modern OpenGL setup for loading and rendering 3D models.
 
 If you are using GLEW + FreeGLUT, please refer instead to the starter code Lab4_b, which is configured for the GLEW + FreeGLUT environment.
 
-#📦 Download Assimp
+# 📦 Download Assimp
 
 If you are using a system other than Windows x64, please download the correct Assimp version manually from the official site:
 🔗 https://www.assimp.org/
 
-#📁 Project Structure
+# 📁 Project Structure
 
 lab4/
 ├─ external/
@@ -33,12 +33,12 @@ lab4/
 │
 └─ CMakeLists.txt
 
-#⚙️ Requirements
+# ⚙️ Requirements
 
 CMake ≥ 3.1, OpenGL 3.3+
 
 
-#🛠 Build Instructions
+# 🛠 Build Instructions
 
 🪟 Windows (CLion – Recommended)
 
